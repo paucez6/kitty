@@ -1,0 +1,15 @@
+{
+  "name": "countdown-master",
+  "version": "1.0.0",
+  "description": "![COUNTDOWN](https://user-images.githubusercontent.com/85034795/129838464-05b695f7-9120-4bf2-955b-66b982ed6bf3.png)",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.0"
+  }
+}
